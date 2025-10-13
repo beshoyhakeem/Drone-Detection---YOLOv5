@@ -1,0 +1,5 @@
+"train: /content/process/data/train" 
+"val: /content/process/data/val" 
+"test: /content/process/data/test" 
+"nc: 1" 
+"names: ['drone']" 
