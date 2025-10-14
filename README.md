@@ -15,7 +15,7 @@ Drone Detection - YOLOV5
     ├── notebooks/ → data prep, training, and inference  
     ├── results/ → outputs, plots, or images  
     ├── drone_data.yaml → config file  
-    ├── README.md
+    ├── README.md  
     └── requirements.txt  
 
 ### 📊 Results
@@ -42,8 +42,8 @@ Below are sample outputs from the trained YOLOv5 model detecting drones in test 
 
 2. **Install dependencies**
 
-  ```bash
-  pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 3. **Run the inference notebook**
  
