@@ -9,14 +9,14 @@ Using YOLOv5 small model for latency
 `Python` | `PyTorch` | `opencv` | `YOLOv5` | `matplotlib`|
 
 ### Repository Structure
-Drone Detection - YOLOV5
-    ├── inference/ → images and videos used for inference
-    ├── Model/ → model best weigths
-    ├── notebooks/ → data prep, training, and inference
-    ├── results/ → outputs, plots, or images
-    ├── drone_data.yaml → config file
+Drone Detection - YOLOV5  
+    ├── inference/ → images and videos used for inference  
+    ├── Model/ → model best weigths  
+    ├── notebooks/ → data prep, training, and inference  
+    ├── results/ → outputs, plots, or images  
+    ├── drone_data.yaml → config file  
     ├── README.md
-    └── requirements.txt
+    └── requirements.txt  
 
 ### 📊 Results
 Below are sample outputs from the trained YOLOv5 model detecting drones in test images:
@@ -41,25 +41,26 @@ Below are sample outputs from the trained YOLOv5 model detecting drones in test 
    cd Drone Detection - YOLOV5
 
 2. **Install dependencies**
-    ```bash
+
+  ```bash
   pip install -r requirements.txt
 
 3. **Run the inference notebook**
  
-choose what you want to predict image or video in real time or outputed labedl video  
+  choose what you want to predict image or video in real time or outputed labeled video  
 
 
-### Future Work
+### Future Improvments
 1. **Using YOLOv8**
 2. **Using YOLOv5large**
 3. **Using instance segmentation**
 
 
 ### 👤 Author
-**Beshoy Hakeem**
-[LinkedIn](https://www.linkedin.com/in/beshoy-fahmy-14a254359/)
-[GITHUB](https://github.com/beshoyhakeem)
-Email: beshoyashraf042@gmail.com
+**Beshoy Hakeem**  
+[LinkedIn](https://www.linkedin.com/in/beshoy-fahmy-14a254359/)  
+[GITHUB](https://github.com/beshoyhakeem)  
+Email: beshoyashraf042@gmail.com  
 
 
 
