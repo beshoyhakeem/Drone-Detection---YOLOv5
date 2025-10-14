@@ -3,7 +3,7 @@
 ### Overview
 A deep learning–based drone detection system built with YOLOv5, trained on a custom dataset to accurately identify drones in diverse environments and enable real-time monitoring for enhanced security and threat prevention.
 
-Using YOLOv5 small model for latency  
+**Using YOLOv5 small model for latency**  
 
 ### Tech Stack
 `Python` | `PyTorch` | `opencv` | `YOLOv5` | `matplotlib`|
