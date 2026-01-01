@@ -37,13 +37,13 @@ Below are sample outputs from the trained YOLOv5 model detecting drones in test 
 1. **Clone the repository**
 
    ```bash
-      git clone https://github.com/beshoyhakeem/Drone-Detection---YOLOv5.git
-      cd Drone Detection - YOLOV5
+   git clone https://github.com/beshoyhakeem/Drone-Detection---YOLOv5.git
+   cd Drone Detection - YOLOV5
 
 2. **Install dependencies**
 
    ```bash
-       pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. **Run the inference notebook**
  
