@@ -15,7 +15,7 @@ Drone Detection - YOLOV5
     ├── notebooks/ → data prep, training, and inference  
     ├── results/ → outputs, plots, or images  
     ├── drone_data.yaml → config file  
-    ├── README.md
+    ├── README.md  
     └── requirements.txt  
 
 ### 📊 Results
@@ -36,9 +36,9 @@ Below are sample outputs from the trained YOLOv5 model detecting drones in test 
 
 1. **Clone the repository**
 
-   ```bash
-   git clone https://github.com/beshoyhakeem/Drone-Detection---YOLOv5.git
-   cd Drone Detection - YOLOV5
+  ```bash
+  git clone https://github.com/beshoyhakeem/Drone-Detection---YOLOv5.git
+  cd Drone Detection - YOLOV5
 
 2. **Install dependencies**
 
@@ -61,6 +61,3 @@ Below are sample outputs from the trained YOLOv5 model detecting drones in test 
 [LinkedIn](https://www.linkedin.com/in/beshoy-fahmy-14a254359/)  
 [GITHUB](https://github.com/beshoyhakeem)  
 Email: beshoyashraf042@gmail.com  
-
-
-
